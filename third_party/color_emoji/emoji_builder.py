@@ -568,6 +568,8 @@ By default they are dropped.
         # remove it earlier, getGlyphID dies.  Need to restructure all of this
         # code.
 	font_data.delete_from_cmap(font, [0xfe82b])
+	font_data.delete_from_cmap(font, [0x002A,0x0023])
+	font_data.delete_from_cmap(font, [0x0030,0x0031,0x0032,0x0033,0x0034,0x0035,0x0036,0x0037,0x0038,0x0039])
 	font.save (out_file)
 	print("Output font '%s' generated." % out_file)
 
