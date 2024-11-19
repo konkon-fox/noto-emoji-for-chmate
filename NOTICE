@@ -1,10 +1,25 @@
-This project includes code from the following repository:
+This project includes code from the following repositories:
 
-- Repository: https://github.com/googlefonts/noto-emoji
-- License: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
-- Copyright: Copyright 2024 Google Inc.
+## NotoColorEmoji
 
-Modified by: konkon-fox (2024)
+- **Repository**: [https://github.com/googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji)
+- **License**: Apache License 2.0 ([https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0))
+- **Copyright**: Copyright 2024 Google Inc.
 
-Changes:
-- Deleted characters: U+0023 (HASH), U+002A (ASTERISK), U+0030 to U+0039 (DIGITS 0-9)
+## blobmoji
+
+- **Repository**: [https://github.com/C1710/blobmoji](https://github.com/C1710/blobmoji)
+- **License**: Apache License 2.0 ([https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0))
+- **Copyright**: Copyright 2023 C1710
+
+---
+
+### Modified by: konkon-fox (2024)
+
+### Changes:
+
+- Removed the following characters:
+  - U+0023 (HASH)
+  - U+002A (ASTERISK)
+  - U+0030 to U+0039 (DIGITS 0-9)
+- Replaced the image file with blobmoji and rebuilt it.
