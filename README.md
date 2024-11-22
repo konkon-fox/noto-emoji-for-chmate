@@ -1,21 +1,23 @@
-This file incorporates resources from a project licensed under the Apache License, Version 2.0:
-NotoColorEmoji(https://github.com/googlefonts/noto-emoji)
+# Noto Emoji For ChMate
 
-Copyright 2024 konkon-fox
-This is a modified version of the original font. The following glyphs have been deleted:
+The purpose of this project is to create a font file to display the latest version of NotoColorEmoji in ChMate.
 
-- U+0023 (#)
-- U+002A (\*)
-- U+0030–U+0039 (0–9)
+## Source repositories
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+- NotoColorEmoji (https://github.com/googlefonts/noto-emoji)
+  Based on “Apache license, version 2.0”, this project uses images and build tools.
 
-    http://www.apache.org/licenses/LICENSE-2.0
+- blobmoji (https://github.com/C1710/blobmoji)
+  Based on “Apache license, version 2.0”, this project uses images.
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+## License
+
+As in the original repository, tools and image resources are under the [Apache license, version 2.0](./LICENSE).
+
+## NOTICE
+
+Please refer to the [NOTICE file](./NOTICE) for changes.
+
+## BUILD
+
+Please refer to the [BUILD_CUSTOM.md](./BUILD_CUSTOM.md) for build.
