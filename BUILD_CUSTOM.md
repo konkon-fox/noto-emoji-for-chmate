@@ -6,7 +6,8 @@ Switch to the “develop” branch and provisional build with the “make” com
 
 ## Overwrite images
 
-Copy the image files under `/C1710-blobmoji/compressed_pngs/` to `/build/compressed_pngs/` and overwrite them.
+1. Copy the image files under `/C1710-blobmoji/compressed_pngs/` to `/build/compressed_pngs/` and overwrite them.
+2. Copy the image files under `/noto-emoji-f7abf9645ce10d923fb5e8bccf62e0ffae47b999/compressed_pngs/` to `/build/compressed_pngs/` and overwrite them.
 
 ## Modify “Makefile"
 
