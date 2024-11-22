@@ -14,3 +14,7 @@ As in the original repository, tools and image resources are under the [Apache l
 ## NOTICE
 
 Please refer to the [NOTICE file](./NOTICE) for changes.
+
+## BUILD
+
+Please refer to the [BUILD_CUSTOM.md](./BUILD_CUSTOM.md) for build.
