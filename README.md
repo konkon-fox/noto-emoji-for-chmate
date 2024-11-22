@@ -4,7 +4,7 @@ The purpose of this project is to create a font file to display the latest versi
 
 ## Main source repository
 
-- NotoColorEmoij (https://github.com/googlefonts/noto-emoji)
+- NotoColorEmoji (https://github.com/googlefonts/noto-emoji)
   Based on “Apache license, version 2.0”, this project uses images and build tools.
 
 ## License
